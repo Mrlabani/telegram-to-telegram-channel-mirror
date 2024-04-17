@@ -1,0 +1,6 @@
+{
+  "api_id": "your_api_id",
+  "api_hash": "your_api_hash",
+  "source_channel_id": "-123456789",
+  "target_channel_id": "-987654321"
+}
